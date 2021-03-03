@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-const main = async () => {
+const main = async ({ url }) => {
   const zip = "84043";
 
   const browser = await puppeteer.launch({
@@ -16,7 +16,7 @@ const main = async () => {
     deviceScaleFactor: 1,
   });
 
-  await page.goto("https://www.extraspace.com/");
+  await page.goto(url);
   const searchInput = ".search-input-wrapper input";
 
   await page.click(searchInput);
@@ -43,6 +43,7 @@ const main = async () => {
   const facilities = await getFacilityInfo();
 
   const data = {
+    url: url,
     zip: zip,
     facilities,
   };
@@ -55,4 +56,4 @@ const main = async () => {
   await browser.close();
 };
 
-main();
+main({ url: "https://www.extraspace.com/" });
