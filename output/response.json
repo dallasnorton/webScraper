@@ -1,0 +1,130 @@
+{
+	"zip": "84043",
+	"facilities": [
+		{
+			"name": "Extra Space Storage",
+			"address": "2148 N Stagecoach Dr, Saratoga Springs, UT 84045",
+			"price": "53.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "4285 N Thanksgiving Way, Lehi, UT 84043",
+			"price": "32.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "605 W Royal Mile Rd, Bluffdale, UT 84065",
+			"price": "21.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "9978 N 4700 West, Cedar Hills, UT 84062",
+			"price": "14.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "582 W 220 S St, Pleasant Grove, UT 84062",
+			"price": "31.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "81 N 1800 W, Lindon, UT 84042",
+			"price": "37.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "321 S Vineyard Rd, Orem, UT 84058",
+			"price": "65.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "1401 W Center St, Orem, UT 84057",
+			"price": "26.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "1380 W South Jordan Pkwy, South Jordan, UT 84095",
+			"price": "39.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "9741 S 700 E, Sandy, UT 84070",
+			"price": "65.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "8308 S 700 E, Sandy, UT 84070",
+			"price": "51.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "7210 S Redwood Rd, West Jordan, UT 84084",
+			"price": "44.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "4484 W New Bingham Hwy, West Jordan, UT 84088",
+			"price": "43.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "6384 S Cottonwood St, Murray, UT 84107",
+			"price": "75.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "7204 S Airport Rd, West Jordan, UT 84084",
+			"price": "31.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "7062 S Airport Rd, West Jordan, UT 84084",
+			"price": "36.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "1740 W 6020 S, Taylorsville, UT 84129",
+			"price": "45.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "5572 Van Winkle, Salt Lake City, UT 84117",
+			"price": "53.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "5459 S Commerce Dr, Murray, UT 84107",
+			"price": "51.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "5520 S 3915 W, Salt Lake City, UT 84129",
+			"price": "36.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "3947 S State St, Salt Lake City, UT 84107",
+			"price": "34.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "4639 S 5600 W, West Valley City, UT 84128",
+			"price": "50.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "2150 E 3300 S, Millcreek, UT 84109",
+			"price": "64.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "4537 W 3500 S, West Valley City, UT 84120",
+			"price": "44.0000"
+		},
+		{
+			"name": "Extra Space Storage",
+			"address": "1150 S 500 W, Salt Lake City, UT 84101",
+			"price": "76.0000"
+		}
+	]
+}
